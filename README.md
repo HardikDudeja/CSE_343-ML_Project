@@ -35,7 +35,7 @@ words present in each category description as appropriate parts of speech for fu
 
 * To demonstrate the working, clone the repository.
 * Load the model
-<br/>The models trained are saved in the models directory.
+<br/>The models trained are saved in the models directory. Uncompress the model if compressed and load using the following command.
 ```
 model = joblib.load(model)
 ```
