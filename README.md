@@ -51,4 +51,9 @@ y_pred = model.predict(x_test)
 score = model.score(x_test)
 
 ```
+### Team Members
+* [Hardik Dudeja](https://github.com/HardikDudeja)
+* [Harshita Srinivas](https://github.com/harshita19244)
+* [Mohit Bhar](https://github.com/MohitBhar)
+* [Saksham Mehla](https://github.com/Saksham-Mehla)
 
