@@ -51,6 +51,7 @@ y_pred = model.predict(x_test)
 score = model.score(x_test)
 
 ```
+* If you want to execute the whole model including all itms and pre-processin teasks, naviate to th ```final code``` directory and execute [final_code.ipynb]()
 ### Team Members
 * [Hardik Dudeja](https://github.com/HardikDudeja)
 * [Harshita Srinivas](https://github.com/harshita19244)
