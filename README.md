@@ -51,7 +51,7 @@ y_pred = model.predict(x_test)
 score = model.score(x_test)
 
 ```
-* If you want to execute the whole model including all itms and pre-processin teasks, naviate to th ```final code``` directory and execute [final_code.ipynb]()
+* If you want to execute the whole model including all algorithms and pre-processing tasks, navigate to the ```final code``` directory and execute [final_code.ipynb](https://github.com/HardikDudeja/CSE_343-ML_Project/tree/main/final%20code)
 ### Team Members
 * [Hardik Dudeja](https://github.com/HardikDudeja)
 * [Harshita Srinivas](https://github.com/harshita19244)
