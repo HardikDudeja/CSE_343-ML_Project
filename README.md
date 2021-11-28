@@ -34,6 +34,6 @@ words present in each category description as appropriate parts of speech for fu
 ## Running the model
 The models trained are saved in the models directory.
 * Load the model
-'''
+```
 model = joblib.load(model)
-'''
+```
