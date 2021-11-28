@@ -37,3 +37,9 @@ The models trained are saved in the models directory.
 ```
 model = joblib.load(model)
 ```
+* Testing the model
+- Predict the output on the testing data using the following code.
+```
+y_pred = model.predict(x_test)
+
+```
