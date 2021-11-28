@@ -32,8 +32,10 @@ words present in each category description as appropriate parts of speech for fu
 * K-NN Classifier
 
 ## Running the model
-The models trained are saved in the models directory.
+
+* To demonstrate the working, clone the repository.
 * Load the model
+<br/>The models trained are saved in the models directory.
 ```
 model = joblib.load(model)
 ```
