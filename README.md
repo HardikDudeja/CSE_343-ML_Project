@@ -8,6 +8,9 @@ In order to understand the previous approaches towards solving this problem we w
 * [Don't Classify, Translate: Multi-Level E-Commerce Product Categorization Via Machine Translation.](https://arxiv.org/abs/1812.05774)
 * [Amazon ML Challenge](https://www.hackerearth.com/challenges/competitive/amazon-ml-challeng/)
 
+## Dataset
+The dataset for the product classification task was taken from the Amazon product classification challenge on Kaggle. The dataset can be found [here](https://drive.google.com/file/d/1cMo_cczClT4UPw3eEjlKxnmbzheqX516/view?usp=sharing).
+
 ## Data-Preprocessing
 In the inital stages of the project we perfomed data pre-processing. We used an NLP based approach. 
 * Firstly, null valued columns were eliminated from the data. Then, each data point was converted into an independent document, a tuple containing the product title, description and bullet points together. 
